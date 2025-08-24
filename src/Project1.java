@@ -3,7 +3,7 @@ Ronnie Allen
 CMSC 335 Project 1
 23-AUG-2025
 
-
+This is the main class that directs the flow of the shape program.
  */
 
 import java.time.LocalDateTime;

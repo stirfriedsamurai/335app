@@ -3,7 +3,8 @@ Ronnie Allen
 CMSC 335 Project 1
 23-AUG-2025
 
-
+This class represents a rectangle and is used to create and instance and
+calculate the area of the rectangle instance.
  */
 import java.util.Scanner;
 

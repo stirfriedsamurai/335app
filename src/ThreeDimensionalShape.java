@@ -3,7 +3,8 @@ Ronnie Allen
 CMSC 335 Project 1
 23-AUG-2025
 
-
+This abstract class is used to provide guidelines for all
+subclasses to follow.
  */
 import java.util.Scanner;
 
